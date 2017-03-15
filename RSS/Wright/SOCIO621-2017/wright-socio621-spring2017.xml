@@ -10,9 +10,9 @@
     <image>
       <title>Sociology 621</title>
       <link>http://www.ssc.wisc.edu/~wright/sociology621-2017.htm</link>
-      <url>https://dl.dropboxusercontent.com/u/2683172/RSS/Wright/SOCIO621-2017/wright-socio621-spring2017.JPG</url>
-      <width>388</width>
-      <height>372</height>
+      <url>https://raw.githubusercontent.com/etgrieco/podcast-feeds/master/RSS/Wright/SOCIO621-2017/wright-socio621-spring2017.JPG</url>
+      <width>534</width>
+      <height>534</height>
     </image>
 	<item>
       <title>16 The State and the Working class: the problem of democracy</title>
@@ -126,7 +126,7 @@
       <link>https://www.ssc.wisc.edu/~wright/621-2017/podcasts/Soc621-lec02-part1-2017.m4a</link>
       <enclosure url="https://www.ssc.wisc.edu/~wright/621-2017/podcasts/Soc621-lec02-part1-2017.m4a" length="" type="audio/mpeg" />
     </item>
-	<item>
+    <item>
       <title>01 Marxism and Emancipatory Social Science</title>
       <pubDate>Wed, 18 Jan 2017 18:00:00 +0800</pubDate>
       <description><![CDATA[]]></description>
