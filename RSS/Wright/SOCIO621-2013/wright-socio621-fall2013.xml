@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
-    <title>Sociology 621</title>
+    <title>Sociology 621 (Fall 2013)</title>
     <link>http://www.ssc.wisc.edu/~wright/sociology621-2013.htm</link>
     <description>Sociology 621. Class, State and Ideology (Fall 2013) - Lectures by Erik Olin Wright, University of Wisconsin-Madison.</description>
     <language>en-us</language>
@@ -10,7 +10,7 @@
     <image>
       <title>Sociology 621</title>
       <link>http://www.ssc.wisc.edu/~wright/sociology621-2013.htm</link>
-      <url>https://raw.githubusercontent.com/etgrieco/podcast-feeds/master/RSS/Wright/SOCIO621/cover.jpg</url>
+      <url>https://raw.githubusercontent.com/etgrieco/podcast-feeds/master/RSS/Wright/SOCIO621-2013/cover.jpg</url>
       <width>350</width>
       <height>367</height>
     </image>
